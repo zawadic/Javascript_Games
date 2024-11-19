@@ -2,8 +2,7 @@
 
 ![HTML Badge](https://img.shields.io/badge/html-5-orange)  
 ![CSS Badge](https://img.shields.io/badge/css-3-blue)  
-![JavaScript Badge](https://img.shields.io/badge/javascript-es6-yellow)  
-![License](https://img.shields.io/badge/license-MIT-green)  
+![JavaScript Badge](https://img.shields.io/badge/javascript-es6-yellow) 
 
 This repository contains a collection of **simple to advanced games** built using **HTML**, **CSS**, and **JavaScript**. It showcases the power of JavaScript in creating interactive and fun experiences for the web.  
 
