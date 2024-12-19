@@ -8,7 +8,7 @@ function checkGuess() {
     message.textContent = 'Please enter a number!';
     message.style.color = "yellow";
   } else if (guess === randomNumber) {
-    message.textContent = 'Congratulations! You guessed it right!';
+    message.textContent = 'Congratulations🎉! You guessed it right!';
     message.style.color = "green";
   } else if (guess > randomNumber) {
     message.textContent = 'Too low! Try again.';
