@@ -30,9 +30,8 @@ This repository contains a collection of **simple to advanced games** built usin
 ## Games Included  
 
 1. **Simple Clicker Game**  
-2. **Guess Game**  
-3. **Match Pairs**    
-4. **Rock,Paper,Scissors**
+2. **Guess Game**   
+3. **Rock,Paper,Scissors**
    
 ## Technologies Used  
 
